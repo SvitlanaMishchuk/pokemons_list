@@ -1,0 +1,1 @@
+export { PokemonSize } from './PokemonSize';
